@@ -1,0 +1,7 @@
+{
+  "name": "Escape from the White Island - Web",
+  "description": "An escape room game",
+  "repository": "https://github.com/elcsiga/white-island-web.git",
+  "keywords": ["unity", "node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
